@@ -1,7 +1,7 @@
 Group Project - README Template
 ===
 
-# Chores App
+# RoomPlan App
 
 ## Table of Contents
 1. [Overview](#Overview)
