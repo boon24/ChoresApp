@@ -66,7 +66,7 @@ An application that allows users to create groups with others, and create/assign
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src=https://imgur.com/a/0DikZ7f width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
